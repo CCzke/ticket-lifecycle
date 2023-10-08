@@ -30,7 +30,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![IMG_1312](https://github.com/CCzke/ticket-lifecycle/assets/146891429/d117db1f-1868-4ca2-94c2-1f7a36b97397)
+
 </p>
 <p>
 Created a few tickets as an end user, then logged in as a help desk professional.
@@ -38,7 +40,9 @@ Created a few tickets as an end user, then logged in as a help desk professional
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![IMG_1313](https://github.com/CCzke/ticket-lifecycle/assets/146891429/ac053a42-9d99-460f-b7e0-f5232493fdf0)
+
 </p>
 <p>
 Logged in as an Admin and started assigning tickets to different departments as well as setting which ticket is a higher priority so it matches with its SLA. 
